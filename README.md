@@ -14,3 +14,4 @@ The platform will be tentatively built using *Flutter* and *NoSQL databases*.
 Team Details:
 
 Pragathi 24M0819
+Anas Khan 24M2129
