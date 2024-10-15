@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Task 1: Idea formation Task2: Workflow generation
+Task 3: Implementation
+This is weekly todo list
+>>>>>>> origin/branch_anas
