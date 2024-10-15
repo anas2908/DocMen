@@ -9,3 +9,8 @@ Key features include:
 - Dispute resolution for handling refunds and missed promises.
 
 The platform will be tentatively built using *Flutter* and *NoSQL databases*.
+
+
+Team Details:
+
+Pragathi 24M0819
